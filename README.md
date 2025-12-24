@@ -7,7 +7,6 @@
 
 ##  <img width="40" height="40" alt="avatar" src="https://github.com/user-attachments/assets/796f49dd-c707-4fbc-ba7d-57216160d5e2" /> About Me
 
-
 I'm a **2nd-year undergraduate student** pursuing **B.Sc. (Hons.) Computer Science** with **Statistics as my minor subject** from **Mahila MahaVidyalaya (MMV), Banaras Hindu University (BHU)** .
 
 I am focused on building **strong core computer science fundamentals** along with a solid understanding of **statistical concepts, databases, and digital systems**. My interdisciplinary academic background in **Computer Science and Statistics** helps me approach problems with both **logical reasoning and data-driven thinking**.
@@ -44,6 +43,12 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 
 ---
 
+### 🛠️ Tools & Software
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,py,mysql)](https://skillicons.dev)
+
+---
+
 ### 📊 Statistics & Data Skills
 ![Descriptive Statistics](https://img.shields.io/badge/Descriptive%20Statistics-4CAF50?style=for-the-badge&logoColor=white)
 ![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-009688?style=for-the-badge&logoColor=white)
@@ -74,5 +79,22 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 - ✔ Digital logic circuits & simulations  
 
 ---
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarshaKSinha&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaKSinha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=VarshaKSinha&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Aspiring+Full+Stack+Developer;Data+Structure+%26+Algorithm+Enthusiast" alt="Typing SVG" />
+</p>
 
 ⭐ *Strong fundamentals • Analytical thinking • Consistent learning*
+
+---
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FVarshaKSinha&labelColor=%232c3e50&countColor=%23263238&style=flat)
