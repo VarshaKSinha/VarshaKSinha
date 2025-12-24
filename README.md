@@ -18,32 +18,29 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 
 ## 🌐 Social & Professional Profiles
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VarshaKSinha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varsha-kumari-a237a4329)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshasinha2803@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/VarshaKSinha)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/varsha-kumari-a237a4329)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:varshasinha2803@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/lx.varsha_09080)
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
 
 ---
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+### 🌐 Web Technologies & Databases
 
----
-
-### 🗄️ Databases & DBMS
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
