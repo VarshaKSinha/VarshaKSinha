@@ -45,7 +45,7 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 
 ### 🛠️ Tools & Software
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,py,mysql)](https://skillicons.dev)
+![Tools & Software](https://skillicons.dev/icons?i=vscode,git,github,py,mysql)
 
 ---
 
