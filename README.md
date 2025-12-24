@@ -78,14 +78,4 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 
 ---
 
-## Github Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarshaKSinha&theme=github_dark_dimmed&show_icons=true&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?top-langs/?username=VarshaKSinha&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=false" height="150" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?username=VarshaKSinha&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=false" height="150"/>
-</p>
-
 ⭐ *Strong fundamentals • Analytical thinking • Consistent learning*
