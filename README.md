@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Varsha Kumari
+<h1 align="center">👋 Hi, I'm Varsha Kumari</h1>
 
-### 🎓 B.Sc. (Hons.) Computer Science | Statistics (Minor)  
-**2nd Year Undergraduate | MMV BHU'28**
+<h3 align="center">🎓 B.Sc. (Hons.) Computer Science | Statistics (Minor) <br>
+2nd Year Undergraduate | MMV BHU'28</h3>
 
 ---
 
@@ -19,38 +19,38 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 ## 🌐 Social & Professional Profiles
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VarshaKSinha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/varsha-kumari-a237a4329)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:varshasinha2803@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varsha-kumari-a237a4329)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshasinha2803@gmail.com)
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
 ### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
 ### 🗄️ Databases & DBMS
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
 ### 📊 Statistics & Data Skills
-![Descriptive Statistics](https://img.shields.io/badge/Descriptive%20Statistics-4CAF50?style=for-the-badge)
-![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-009688?style=for-the-badge)
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Descriptive Statistics](https://img.shields.io/badge/Descriptive%20Statistics-4CAF50?style=for-the-badge&logoColor=white)
+![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-009688?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -77,5 +77,15 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 - ✔ Digital logic circuits & simulations  
 
 ---
+
+## Github Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarshaKSinha&theme=github_dark_dimmed&show_icons=true&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?top-langs/?username=VarshaKSinha&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=false" height="150" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?username=VarshaKSinha&layout=compact&theme=github_dark_dimmed&show_icons=true&hide_border=false" height="150"/>
+</p>
 
 ⭐ *Strong fundamentals • Analytical thinking • Consistent learning*
