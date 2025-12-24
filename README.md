@@ -16,6 +16,14 @@ I actively work on improving my **programming skills, conceptual clarity, and pr
 
 ---
 
+## 🌐 Social & Professional Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VarshaKSinha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/varsha-kumari-a237a4329)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:varshasinha2803@gmail.com)
+
+---
+
 ## 🛠️ Skills & Tech Stack
 
 ### 💻 Programming Languages
