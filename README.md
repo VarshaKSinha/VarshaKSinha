@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Varsha Kumari</h1>
 
 <h3 align="center">🎓 B.Sc. (Hons.) Computer Science | Statistics (Minor) <br>
-2nd Year Undergraduate | MMV BHU'28</h3>
+3rd Year Undergraduate | MMV BHU'28</h3>
 
 ---
 
 ##  <img width="40" height="40" alt="avatar" src="https://github.com/user-attachments/assets/796f49dd-c707-4fbc-ba7d-57216160d5e2" /> About Me
 
-I'm a **2nd-year undergraduate student** pursuing **B.Sc. (Hons.) Computer Science** with **Statistics as my minor subject** from **Mahila MahaVidyalaya (MMV), Banaras Hindu University (BHU)** .
+I'm a **3rd-year undergraduate student** pursuing **B.Sc. (Hons.) Computer Science** with **Statistics as my minor subject** from **Mahila MahaVidyalaya (MMV), Banaras Hindu University (BHU)** .
 
 I am focused on building **strong core computer science fundamentals** along with a solid understanding of **statistical concepts, databases, and digital systems**. My interdisciplinary academic background in **Computer Science and Statistics** helps me approach problems with both **logical reasoning and data-driven thinking**.
 
